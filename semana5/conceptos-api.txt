@@ -1,0 +1,4 @@
+Qué hace esta ruta.
+esta ruta recibe mensajes y contestar nuevamente el mensaje en un archivo json.
+Para qué podría servir en una aplicación comunitaria.
+sirve en una aplicacion comunitaria para recibir datos de los mienbros de la comunidad, ppor ejemplo peticiones, quejas, reclamos y felictaciones 

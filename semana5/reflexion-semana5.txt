@@ -1,0 +1,2 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas de manera organizada?
+esta puede ser la base para crear una red comunitaria de informacion organizada donde vecinos y organizaciones compartan reportes y alertas en tiempo real de forma estructurada. Es decir que puede recibir informacion desde distintos canales por ejemplo cuando alguien reporta una fuga de gas, el api recibe datos del json.
